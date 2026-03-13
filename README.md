@@ -2,6 +2,32 @@
 
 Ссылка на бота: bogelikaai_bot
 
+Скриншоты:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github.com/alexpee85/ai_assistant_bot_for_beauty/blob/main/gialog_bot.png" alt="Диалог с ботом в ТГ" width="200" />
+        <br><i>Скриншот 1: Диалог с ботом в ТГ</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/alexpee85/ai_assistant_bot_for_beauty/blob/main/gialog_bot_2.png" alt="Диалог с ботом в ТГ" width="200" />
+        <br><i>Скриншот 2: Диалог с ботом в ТГ</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/alexpee85/ai_assistant_bot_for_beauty/blob/main/gialog_bot_3.png" alt="Диалог с ботом в ТГ" width="200" />
+        <br><i>Скриншот 3: Диалог с ботом в ТГ</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/alexpee85/ai_assistant_bot_for_beauty/blob/main/zapis_google_calendar.png" alt="Запись в календарь" width="200" />
+        <br><i>Скриншот 4: Запись в календарь</i>
+      </td>
+    </tr>
+  </table>
+  <p><i>Рисунок: Пример пути клиента в Telegram-боте «БОГЕЛИКА».</i></p>
+</div>
+
 ## 📋 Описание проекта
 Разработка и внедрение интеллектуального виртуального администратора в экосистеме **Telegram** для сети студий маникюра. Бот автоматизирует первичную коммуникацию с клиентами прямо в мессенджере, консультирует по услугам и ценам, а также осуществляет запись на процедуры с синхронизацией в Google Календарь.
 
